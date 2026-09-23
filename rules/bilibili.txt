@@ -1,6 +1,7 @@
-full:manga.bilibili.com
 bilicomic.com
 bilicomics.com
+maoer.com
+missevan.com
 acg.tv
 acgvideo.com
 animetamashi.cn
@@ -23,7 +24,9 @@ bilibili.net
 bilibilipay.cn
 bilibilipay.com
 biligo.com
+huasheng.cn
 im9.com
+updream.cn
 yo9.com
 bilicdn1.com
 bilicdn2.com

@@ -1,3 +1,4 @@
+hbo
 beforeigners.com
 brightline.tv
 cinemax.com
@@ -55,6 +56,7 @@ homeboxoffice.com
 max.com
 maxgo.com
 redbyhbo.com
+h264.io
 hbogo.co.th
 hbomax-images.warnermediacdn.com
 hbo.com.edgesuite.net
